@@ -1,0 +1,4 @@
+CREATE DATABASE ledger_db;
+CREATE DATABASE payment_db;
+CREATE DATABASE account_db;
+CREATE DATABASE recon_db;
