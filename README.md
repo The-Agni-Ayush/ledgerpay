@@ -4,7 +4,7 @@ A ledger-based payment processing platform built with Java 21, Spring Boot, Post
 
 **Planned services:** API gateway, payment, ledger (append-only double-entry), account (balance read model), fraud, reconciliation.
 
-**Current status:** Phase 1 complete (project skeleton and local infrastructure).
+**Current status:** Phase 2 complete (ledger service).
 
 ## Prerequisites
 - JDK 21
